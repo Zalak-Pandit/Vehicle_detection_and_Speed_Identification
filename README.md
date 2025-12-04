@@ -1,5 +1,7 @@
 # Vehicle_detection_and_Speed_Identification (Traffic Safety)
 
+PROJECT PRESENTATION LINK: https://drive.google.com/file/d/1gG8hr_Y4bXct_2vAsRXG8aEMQEIURFZa/view?usp=sharing
+
 This repository contains the code and resources for the Vehicle Identification for Traffic Safety project.
 
 Overview
@@ -22,3 +24,6 @@ Programming Language: Python, C++ (for Arduino)
 Libraries/Frameworks: OpenCV, NumPy
 
 Hardware: Arduino Uno, Camera Module (laptop), LCD Display (20x4)
+
+
+
